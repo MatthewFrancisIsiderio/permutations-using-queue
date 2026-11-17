@@ -18,15 +18,29 @@
 - Displays all generated permutations and their total count.
 
 # Expected Output Example
-**Queue Implementation** <br>
+**Menu** <br>
+`===PERMUTATIONS AND COMBINATIONS===` <br> 
+`[1] Add Elements` <br> 
+`[2] Display Queue` <br> 
+`[3] Generate Permutations` <br> 
+`[4] Exit` <br> 
+`Enter your choice:`
+
+**Input Implementation** <br>
+`===ADD ELEMENTS===`
+
 `Enter five elements: A B C D E`
- 
+
+`===Elements successfully added===`
+
+ **Queue Implementation** <br>
 `Queue: [A, B, C, D, E]`
  
-`Dequeuing two elements...`
+`Dequeuing two elements...` <br>
 `Updated Queue: [C, D, E]`
 
 **Permutation Generation** <br>
+`===PERMUTATIONS===` <br>
 `Enter number of elements to arrange: 3`
  
 `Generated Permutations:` <br>
